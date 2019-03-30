@@ -22,7 +22,7 @@ $(document).ready(function() {
   if (window.location.pathname.substring(0, 5) == "/tag/") {
     $('.panel-cover').addClass('panel-cover--collapsed');
   }
-
+a
   $('.btn-mobile-menu__icon').click(function() {
     if ($('.navigation-wrapper').css('display') == "block") {
       $('.navigation-wrapper').on('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {
@@ -46,7 +46,7 @@ $(document).ready(function() {
 
       $('.navigation-wrapper').toggleClass('animated bounceInDown animated bounceOutUp');
     }
-    
+
     $('.btn-mobile-menu__icon').toggleClass('fa fa-list fa fa-angle-up animated fadeIn');
   });
 });
