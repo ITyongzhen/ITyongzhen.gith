@@ -1,11 +1,11 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+title: 殷永振个人博客
+subtitle: A blog-orientation theme for yongzhen
+welcome_message: <a href="https://github.com/yongzhen/vno-jekyll" target="_blank">Download the theme</a>
+description: yongzhen is a port of my Ghost theme vno.
+creator: <a href="http://ityongzhen.github.io">@yongzhen</a>
 
-url: "http://vno.onevcat.com"
+url: "http://ityongzhen.github.io"
 
 permalink: /:year/:month/:title/
 
@@ -37,11 +37,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
+    weibo: 永振
+    github: 永振
+    twitter: 永振
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: eagle_01yz@163.com
 
 # Google Analytics
 ga:
